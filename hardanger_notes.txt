@@ -1,0 +1,21 @@
+hardanger_notes.txt
+
+
+litterature slide:
+Holttinen 2005: 
+	Reduce balancing costs by 30 percent by trading an hour-ahead market like elbas
+
+Holttinen 2006:
+	Balancing costs of between .6 and .8 Euro per megawatt-hour
+
+
+Trade slide:
+	Weber 2010:
+	Liquidity of intraday markets - ability to influence price in the market - acts as a transaction costs
+	Energinet argues that higher transaction costs involved
+		- use Elbas for unexpected mistakes.  
+
+Electricity Supply Act:
+
+- Electricity Supply Act of 1999 covers all non-utility-owned turbines built before 2003 – covering approximately 85 percent of all turbines at that time. The act obligates the transmission system operator to purchase all wind power production for a period of 10 years from the date the turbine was connected to the grid (Energinet 2007). Importantly, the producers do not need to pay for the balancing costs associated with wind power production – instead the grid operator, Energinet, takes on balancing responsibility.
+

@@ -1,0 +1,479 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"recover",
+				"recoverable_oil"
+			],
+			[
+				"border-bottom-",
+				"border-bottom-width"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"SED",
+				"SEDataZ"
+			],
+			[
+				"SEprice",
+				"SEPrice_work_tplus1"
+			],
+			[
+				"oil",
+				"oil_price_real_l6"
+			],
+			[
+				"perc",
+				"perc_75_price"
+			],
+			[
+				"perc_",
+				"perc_25_price"
+			],
+			[
+				"av",
+				"avg_price"
+			],
+			[
+				"var_",
+				"var_quantity"
+			],
+			[
+				"mean",
+				"mean_quantity"
+			],
+			[
+				"series",
+				"series_lag"
+			],
+			[
+				"field",
+				"field_inspection"
+			],
+			[
+				"gam_price_over_",
+				"gam_price_over_2d_s_price"
+			],
+			[
+				"summar",
+				"summary_over_gamma"
+			],
+			[
+				"summary",
+				"summary_comp_under"
+			],
+			[
+				"smooth",
+				"smooth_price_2"
+			],
+			[
+				"statfjord",
+				"statfjord_plot"
+			],
+			[
+				"size",
+				"size_vs_init_prod"
+			],
+			[
+				"reco",
+				"recoverable_oil"
+			],
+			[
+				"invest_per_prd",
+				"invest_per_prod_l5"
+			],
+			[
+				"real",
+				"oil_price_real"
+			],
+			[
+				"fields",
+				"fields_p"
+			],
+			[
+				"peak",
+				"peak_to_end"
+			],
+			[
+				"res",
+				"res_fit_se"
+			],
+			[
+				"smooth_ben",
+				"smooth_bench_split"
+			],
+			[
+				"year",
+				"year_prod"
+			],
+			[
+				"min",
+				"min_time_to_peak"
+			],
+			[
+				"invest",
+				"investmentMillNOK_real"
+			],
+			[
+				"fitted",
+				"fitted_year_prod"
+			],
+			[
+				"time",
+				"time_to_peak"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "winderror2_b",
+			"settings":
+			{
+				"buffer_size": 3339,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hardanger2014.tex",
+			"settings":
+			{
+				"buffer_size": 4406,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hardanger_notes.txt",
+			"settings":
+			{
+				"buffer_size": 996,
+				"line_ending": "Unix",
+				"name": "hardanger_notes.txt"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"latex",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"ife",
+				"Snippet: Ifelse"
+			],
+			[
+				"snippet ife",
+				"Snippet: Ifelse"
+			],
+			[
+				"snippetife",
+				"Snippet: Ifelse"
+			],
+			[
+				"snippet",
+				"Snippet: Length"
+			],
+			[
+				"sn",
+				"Snippet: For Loop"
+			],
+			[
+				"package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"package Control: List ",
+				"Package Control: List Packages"
+			],
+			[
+				"PACKAGE CONTROL: INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/johannesmauritzen/Google Drive/PythonForComputation/Figure.png",
+		"/Users/johannesmauritzen/Google Drive/PythonForComputation/test_2.py",
+		"/Users/johannesmauritzen/Google Drive/price-spikes/r-price-spikes/AnalysisMay2013.R",
+		"/Users/johannesmauritzen/Google Drive/price-spikes/AnalysisMay2013.R",
+		"/Users/johannesmauritzen/Google Drive/price-spikes/priceSpikeAnalysis.R",
+		"/Users/johannesmauritzen/Google Drive/elbas_efficiency/elbas_ACD.r",
+		"/Users/johannesmauritzen/Google Drive/marketPower/marketPowerSeptember2013.r",
+		"/Users/johannesmauritzen/Google Drive/marketPower/Analysis_may_2013.R",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/presentations/oil_pres_ifn.tex",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/presentations/oil_pres1.tex",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/presentations/oil_prices.tex",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/presentations/oil_pres_ifn.txt",
+		"/Users/johannesmauritzen/Desktop/website_copy/jmaurit.github.io/index.html",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/presentation/oil_pres1.tex",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil.R",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/Oil_spatial.R",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/presentations/brownbag.txt",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil_pres1.tex",
+		"/Users/johannesmauritzen/Desktop/extract.r",
+		"/Users/johannesmauritzen/Google Drive/marketPower/cleaning.R",
+		"/Users/johannesmauritzen/Google Drive/github/state_space/statespace.r",
+		"/Users/johannesmauritzen/Google Drive/github/elec_wavelet/wavelet.r",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil_clean.R",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/reserve_forecasts.r",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil_modeling.R",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil_modeling_prep.r",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil_bootstrap.r",
+		"/Users/johannesmauritzen/Google Drive/github/rOil/oil_forecasting.r",
+		"/Users/johannesmauritzen/Google Drive/Oil/rOil/oil.R",
+		"/Users/johannesmauritzen/Google Drive/Oil/rOil/oil_modeling_prep",
+		"/Users/johannesmauritzen/Google Drive/Oil/rOil/#oil_modeling_prep.r",
+		"/Users/johannesmauritzen/Google Drive/website/jmaurit.github.io/index.html",
+		"/Users/johannesmauritzen/Google Drive/Oil/rOil/oil_clean.R",
+		"/Users/johannesmauritzen/Google Drive/marketPower/MarketPowerAugust2013.R",
+		"/Users/johannesmauritzen/Google Drive/Oil/rOil/oil_modeling.R",
+		"/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"self.balance",
+			"vinterdekk",
+			">vinterdekk\n",
+			">\n",
+			"/Users/johannesmauritzen/Google Drive/oil/figures/",
+			"fields_p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"balance",
+			"varmeovn",
+			"/Users/johannesmauritzen/Google Drive/github/rOil/presentations/",
+			"fields_eko"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "winderror2_b",
+					"settings":
+					{
+						"buffer_size": 3339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1562,
+								1562
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "hardanger2014.tex",
+					"settings":
+					{
+						"buffer_size": 4406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3488,
+								3488
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2500.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "hardanger_notes.txt",
+					"settings":
+					{
+						"buffer_size": 996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								995,
+								995
+							]
+						],
+						"settings":
+						{
+							"auto_name": "hardanger_notes.txt",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 247.0
+	},
+	"output.latex_log":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true
+}
